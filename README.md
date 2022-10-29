@@ -30,8 +30,6 @@ Screenshots
 ------------
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
-
-![Earthquake-setting-interface](https://user-images.githubusercontent.com/48502023/198835137-baa3947e-18d2-4563-af7b-10552aac1810.jpg)
 ![USGS API info on earthquake](https://user-images.githubusercontent.com/48502023/198835143-1b990db1-2f07-4ec6-8a59-24a190084514.jpeg)
 
 - Google+ Community: https://plus.google.com/communi![Earthquake-screenshots](https://user-images.githubusercontent.com/48502023/198835120-1ca01b40-3da1-42e7-9306-ac1b6826bdf5.jpg)
