@@ -33,10 +33,8 @@ Screenshots
 Support
 -------
 - Stack Overflow: http://stackoverflow.com/questions/tagged/android
-- 
-Patches are encouraged, and may be submitted by forking this project and
+- Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
-
 - Google+ Community: https://plus.google.com/communi![Earthquake-screenshots](https://user-images.githubusercontent.com/48502023/198835120-1ca01b40-3da1-42e7-9306-ac1b6826bdf5.jpg)
 ties/105153134372062985968
 
