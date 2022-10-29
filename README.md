@@ -22,9 +22,7 @@ Getting Started
 This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
 
-Support
--------
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android
+
 
 Screenshots
 ------------
@@ -32,6 +30,10 @@ Screenshots
 ![Earthquake-screenshots](https://user-images.githubusercontent.com/48502023/198835476-2719e3c0-ed97-42ec-b482-a31f182a30b5.jpg)
 
 
+Support
+-------
+- Stack Overflow: http://stackoverflow.com/questions/tagged/android
+- 
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
 
