@@ -1,7 +1,7 @@
 Quake Report App
 ===================================
 
-This app displays a list of recent earthquakes in the world
+This is an earthquake app that can display any magnitude of earthquakes or the most recent earthquakes in the world
 from the U.S. Geological Survey (USGS) organization.
 
 Used in a Udacity course in the Beginning Android Nanodegree.
@@ -24,12 +24,18 @@ This sample uses the Gradle build system. To build this project, use the
 
 Support
 -------
-
-- Google+ Community: https://plus.google.com/communities/105153134372062985968
 - Stack Overflow: http://stackoverflow.com/questions/tagged/android
 
+Screenshots
+------------
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
+
+![Earthquake-setting-interface](https://user-images.githubusercontent.com/48502023/198835137-baa3947e-18d2-4563-af7b-10552aac1810.jpg)
+![USGS API info on earthquake](https://user-images.githubusercontent.com/48502023/198835143-1b990db1-2f07-4ec6-8a59-24a190084514.jpeg)
+
+- Google+ Community: https://plus.google.com/communi![Earthquake-screenshots](https://user-images.githubusercontent.com/48502023/198835120-1ca01b40-3da1-42e7-9306-ac1b6826bdf5.jpg)
+ties/105153134372062985968
 
 License
 -------
