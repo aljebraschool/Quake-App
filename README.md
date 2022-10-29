@@ -28,7 +28,8 @@ Support
 
 Screenshots
 ------------
-![Earthquake-screenshots](https://user-images.githubusercontent.com/48502023/198835405-0e1e8098-d931-4ccb-ab73-d5fb8dfcee98.jpg)
+
+![Earthquake-screenshots](https://user-images.githubusercontent.com/48502023/198835476-2719e3c0-ed97-42ec-b482-a31f182a30b5.jpg)
 
 
 Patches are encouraged, and may be submitted by forking this project and
